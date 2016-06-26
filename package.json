@@ -1,0 +1,22 @@
+{
+  "name": "nodejsbackendexam",
+  "version": "1.0.0",
+  "description": "nodejs Backend Exam",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/piyusha89/nodejsBackendExam.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Piyush Agarwal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/piyusha89/nodejsBackendExam/issues"
+  },
+  "homepage": "https://github.com/piyusha89/nodejsBackendExam"
+}
